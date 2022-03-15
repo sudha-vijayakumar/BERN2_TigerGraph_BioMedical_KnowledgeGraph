@@ -1,0 +1,308 @@
+Developmental Status and Perspectives for Tissue Engineering in Urology.
+
+Elcin Huseyn
+Azerbaijan State Oil and Industry
+University, Baku, Azerbaijan
+
+elcin.huseyn@asoiu.edu.az
+
+Abstract: Tissue engineering technology and tissue cell-based stem cell research have made
+great strides in treating tissue and organ damage, correcting tissue and organ dysfunction, and
+reducing surgical complications. In the past, traditional methods have used biological substitutes for
+tissue repair materials, while tissue engineering technology has focused on merging sperm cells
+with biological materials to form biological tissues with the same structure and function as their
+own tissues. The advantage is that tissue engineering technology can overcome donors. Material
+procurement restrictions can effectively reduce complications. The aim of studying tissue
+engineering technology is to find sperm cells and suitable biological materials to replace the
+original biological functions of tissues and to establish a suitable in vivo microenvironment. This
+article mainly describes the current developments of tissue engineering in various fields of urology
+and discusses the future trends of tissue engineering technology in the treatment of complex
+diseases of the urinary system. The results of the research in this article indicate that while the
+current clinical studies are relatively few, the good results from existing animal model studies
+indicate good prospects of tissue engineering technology for the treatment of various urinary tract
+diseases in the future.
+
+Keywords: Tissue engineering; kidney; ureter; bladder; urethra.
+
+1. Introduction
+
+Urinary system tissue damage and organ loss caused by degenerative diseases, trauma or tumors
+have always been problems that urology needs to solve. In the past, autologous tissues were used to
+replace them, such as genital skin, bladder mucosa, oral mucosa, etc., but often It can cause various
+complications such as hair growth, stenosis, stone formation, and diverticulum formation.
+Moreover, because the materials are taken from their own tissues, they are often limited by the
+source of the donor material, and complications at the donor site are prone to occur. In the case of
+end-stage organ failure, transplantation is usually used. Although transplantation technology is
+relatively mature, the results are not always satisfactory in terms of immune control and suppression
+of complications. In addition, the number of organ donors in the country and the world is far below
+the demand for transplantation, and the population is gradually aging, and the number of people
+with reduced tissue and organ function is increasing. If the length of the ureter and urethra is large,
+repair, operations are sometimes difficult to perform. Therefore, to solve these problems, it is
+necessary to find a way to replace or regenerate damaged organs and tissues. The development of
+regenerative medicine and tissue engineering allows people to further understand the mechanism of
+tissue regeneration and find ways to regenerate damaged tissues or organs. It is now possible to
+improve tissue regeneration capacity or use biomaterial scaffolds combined with stem cells to repair
+damaged tissues and organs, to restore the functions of tissues and organs and improve the quality
+of life of patients. This article reviews the achievements in basic research and clinical application of
+tissue engineering technology in urology in recent years, to provide direction and guidance for
+future research and innovation in this field.
+
+1|Page
+ 2. Overview of urinary system tissue engineering
+
+Tissue engineering is the science of constructing biological substitutes to maintain or repair
+damaged tissues and organs based on the principles of cell biology, materials science, and
+bioengineering.
+
+The cell sources of urinary system tissue engineering mainly include:
+
+e Original cells: obtained from oneself, cultured in vitro, and then used to repair damaged
+tissue.
+
+e Urinary tract epithelial cells: Obtained through bladder biopsy and cell culture. The collection
+method is invasive, but it is currently available. Urinary epithelial cells are separated by urine or
+bladder washing.
+
+e Autologous epithelial cells, oral keratinocytes, smooth muscle cells (used to restore the
+contraction and urination function of the bladder).
+
+e Stem cells: bone marrow stem cells, adipose stem cells, urine-derived stem cells.
+
+The scaffold materials for tissue engineering mainly include:
+
+1. Synthetic polymers, such as biodegradable polymers: polyglycolic acid and polylactic acid-
+polyglycolic acid, both of which are biomaterial's composed of covalently bonded macromolecules.
+The main advantage of synthetic polymers is that they can produce organ structures of any shape in
+three-dimensional space, can be quantified, have good reproducibility, and are relatively low cost.
+Because it is an artificial material, there are no problems related to graft or autologous tissue
+collection damage. In addition, many characteristics of such synthetic polymers can be controlled,
+such as porosity and mechanical properties; and can be degraded through hydrolytic pathways, and
+the residual debris can be eliminated through metabolic pathways; it does not contain any molecular
+signals related to guiding cell activity and differentiation, so it is more conducive to tissue and
+organ repair.
+
+2. Biologically derived scaffolds are decolourized tissues based on chemical and mechanical
+means, such as submucosa of the small intestine (SIS) and bladder acellular matrix (BAM). Due to
+the residual growth factors and extracellular matrix (ECM) proteins, they have the advantages like
+the inherent biological activity and mechanical properties of natural ECM. However, one of the
+main disadvantages of these stents is that the remaining protein composition and structure may be
+different from the body itself to be implanted. Most natural scaffolds come from pigs, so they may
+be a source of disease transmission. In addition, ethical issues will also affect its clinical use.
+
+3. Self-assembled engineering, tissue. This method utilizes or combines the self-assembly
+characteristics of cells to construct a three-dimensional biological tissue structure. After
+decellularization and sterilization of biologically derived materials, the exogenous extracellular
+matrix material may still contain a considerable amount of DNA that may affect biocompatibility.
+The self-assembly method can produce tissues constructed by the cells themselves, in which the
+dense extracellular matrix is produced entirely by their own fibroblasts. The biggest advantage of
+this material is that it eliminates the influence of the biocompatibility of exogenous materials. By
+reducing the immune response, inflammation and fibrosis can be reduced, thereby increasing the
+success rate of surgery. In recent years, some of the techniques in these methods have been used in
+the reconstruction of urinary system tissues [1]. These techniques require cells to receive
+corresponding signals for proper differentiation, so that the engineered tissues for transplantation
+and the target tissues for replacement can be exhausted. It may be similar. Studying and simulating
+related signals is a difficult problem that needs to be overcome to apply these technologies to other
+2|Page
+ tissues and organs.
+
+In addition, nowadays 3D printing technology has been widely used in various fields, including
+nanoelectronics, medicine and tissue engineering. It can accurately combine different materials with
+different substrates, making it the best choice for carrying drugs and conducting personalized
+medical research. [2] Therefore, 3D printing technology has gradually become an important part of
+the construction of tissue engineering scaffolds.
+
+3. Application of tissue engineering technology in kidney
+
+The main components used to construct a functional kidney structure in tissue engineering
+technology are living cells, a scaffold system based on biometrics, biologically active factors, and
+appropriate microenvironments that promote cell behavior. On this basis, the natural healing ability
+of body regeneration is used to guide the growth of new organizations. The method is mainly to
+separate the donor tissue into individual cells. These cells are either directly implanted in the host
+body, or cultured and expanded and then implanted, or attached to a scaffold and expanded and then
+implanted [3].
+
+As a good carrier for cell growth, collagen hydrogel has been widely used in the preparation of
+kidney tissue engineering scaffolds. The three-dimensional collagen scaffold was used to
+reconstruct three-dimensional kidney tissue in vitro using mixed newborn rat kidney cells, and it
+was found that the seed cells in the three-dimensional hydrogel scaffold could self-assemble into
+engineered kidney tissue containing renal tubules and glomerulus-like structures and be cultured in
+three dimensions. The cells can retain their phenotype, migration ability and albumin uptake
+function. Hydrogel hyaluronic acid (HA) can be used as a scaffold material for kidney tissue
+engineering, but actual research and application have shown that hydrogel scaffolds and other
+hydrogel polymer scaffolds are difficult to maintain due to low mechanical strength and physical
+shape. This results in a higher failure rate during use. To improve the mechanical strength, there are
+also studies combining extracellular matrix derivatives with synthetic biomaterials. This composite
+scaffold is considered a solid carrier in tissue engineering [4]. In terms of decellularized scaffolds,
+the researchers decellularized rat kidneys, implanted epithelial cells and endothelial cells to create
+cell-containing scaffolds, then perused the cell-containing scaffolds in a director, and finally
+implanted them in the body. The bioengineered kidney after transplantation can produce urine and
+remove metabolites in the body [5].
+
+In addition to the above research, another main reason that bioengineered organs can achieve
+long-term good results in the body is a potency of blood vessels. In the case that the vascular matrix
+is not completely fused with endothelial cells, there is likely to be obvious thrombosis in the
+vascular system of the stent, which makes the revascularized structure lose its function. To solve
+this problem, Ko et al. [6] Adopted an endothelial cell inoculation method that can effectively cover
+the blood vessel wall of the decellularized pig kidney stent. The study of Lertkiatmongkol et al. [7]
+Showed that the combination of CD31 antibody and vascular matrix enables vascular endothelial
+cells to attach to blood vessels. CD31 is also known as platelet endothelial cell adhesion molecule-1
+(PECAM-1/CD31).). Therefore, in future research, we can try to use endothelial cell inoculation
+method and combine with antibody to effectively improve the adhesion and retention of endothelial
+cells, and further investigate whether this method can make the engineered renal blood vessels
+unobstructed.
+
+Machiguchi et al. [8] Used cell-cell interactions in conditioned media to generate neurons in the
+body for kidney repair. Their research proved the inhibitory effect of collecting duct cell matrix of
+
+3|Page
+ vascular endothelial cells and renal tubular epithelial cells, as well as the stimulating interaction
+between vascular endothelial cells and renal tubular epithelial cells. Since the collecting duct cell
+matrix is like the renal tubular epithelial cell matrix, it can cause mesenchymal stem cells to
+differentiate into renal tubular epithelial cells. Therefore, renal tubular epithelial cells differentiated
+from mesenchymal stem cells induced by the collecting duct cell matrix can be injected into the rat
+renal cortex. Compared with unprotected cells, pre-implantation of cells with a small amount of gel
+complex for three-dimensional culture pretreatment can trigger the formation of more neoprene-like
+structures, indicating that the pre-treated kidney is injected into the renal cortex. Tubular epithelial
+cells may help repair dysfunctional kidney tissue. Zhang et al. [9] Used adipose stem cells to
+differentiate into mesoderm and implanted into stents, and then recellularized the renal artery and
+ureter. They found that the induced mesoderm cells differentiated into tubular cells and products
+more efficiently than adipose stem cells. This will provide a new idea for the differentiation and
+induction of seed cells in the future.
+
+In order to make the above technology feasible in clinical transformation, other key technical
+problems need to be solved, including manufacturing a cell-free renal scaffold with clinical scale
+[10]; using clinically sourced cells to effectively recellularize the scaffold for reconstruction Fully
+functional kidney structure; reduce the cycle of cultivating engineered kidney; ensure that there is
+no serious thrombosis in the long-term implant. In addition, the clinical application of fully
+functional kidneys in kidney-specific diseases are still a challenging task. To achieve this goal,
+multidisciplinary research in this field should be carried out in a balanced manner, including the
+establishment of kidney disease models, preclinical research on the construction and application of
+tissue engineering kidneys, treatment methods for immune problems, and the regulation of
+innervation of implants. The function of the kidney is complex, and the structure is diverse. It is still
+difficult to completely reconstruct an engineered kidney that can be used for transplantation by
+tissue engineering in vitro. Therefore, it is necessary to continue to select and optimize to produce
+engineered kidneys in future research. The cells, scaffold materials and culture, the environment are
+used to make engineered kidneys that function closer to normal kidneys and can be used for
+transplantation.
+
+4. Application of tissue engineering technology in ureter
+
+Acellular matrix is a kind of tissue engineering ureteral scaffold, especially when it is planted
+with cells, it can increase the formation of blood vessels. Koch et al. [11] Proposed to use porcine
+acellular matrix cross-linked ureter as a scaffold for human arterial wall regeneration. The results of
+the study found that the smooth muscle cells inoculated within 2 weeks evenly filled the stent,
+making the stent a substitute for the ureter for transplantation. To improve the regeneration effect,
+Zhao et al. [12] Proposed the method of implanting mesenchymal stem cells between vascular
+endothelial cells to bridge the long arterial gap. The differentiation of mesenchymal stem cells can
+obtain multi-layered arterial tissue. In smooth muscle tissue stained with a-smooth muscle actin and
+smooth muscle myosin heavy chain, urothelial cytokeratin 20 and write-in 11 were positively
+expressed, which proves that this technology is useful in tissue engineering arterial repair.
+Application prospects clinically, the treatment methods for arterial stenosis or injury are mainly
+insertion of a double J tube, balloon expansion, repair, and skin fistula. The application of tissue
+engineering technology will greatly improve the quality of life of patients who have to fistula, such
+as the ureter that cannot be repaired or has long defects. Clinically, the standard method of
+replacement therapy is tubular small intestine replacement therapy or tongue mucosal replacement
+
+4|Page
+ therapy, but due to many complications, it is difficult to achieve the expected clinical treatment
+effect. Another pioneering research is the use of veins instead of ureters [13]. The vein is a pipeline
+for the transportation of fluid in the human body. It has good elasticity and is very close to the ureter
+in function. However, the number of animals in this study is small, and the incidence of
+hydronephrosis is still increasing 3 months after transplantation, and the effect is not very
+satisfactory. Further studies need to have good long-term results before they have the chance to be
+applied in clinical practice in the future.
+
+In the future application of tissue engineering technology, the concept of vein replacement in the
+above method can be combined, and the decellularized vein can be used as a stent to plant arterial
+epithelial cells and smooth muscle cells on the stent to achieve the function of replacing the ureter.
+The location of the ureter is deep, and the injuries are mostly iatrogenic. The patients with long
+stenosis are often older and have a higher tolerance to conventional treatment. Therefore, the
+applicability of tissue engineering technology for the treatment of arterial stenosis lacks effective
+clinical practice. Research.
+
+5. Application of tissue engineering technology in the bladder
+
+The materials for bladder tissue engineering mainly include:
+
+1. Biomaterial's: natural biological materials made of collagen and alginate and cellular tissue
+matrices made of different types of tissues from pigs, such as the submucosa of the bladder, the
+submucosa of the small intestine, the dermis, Bladder, gallbladder, and amniotic fluid tissue, etc.
+[14].
+
+2. Artificial materials: synthetic stents (polyethylene sponge, Teflon, etc.); synthetic polymers
+(such as poly- 4 -ester); silk-based materials. These materials have the advantages of non-toxicity,
+biodegradability, and easy adjustment of their structure. Among them, the silk-based sourcing has
+been removed from the silk biological material, and the human body’s tolerance to the silk-based
+material is equivalent to that of the biological material, so the silk-based material can be used as a
+scaffold in tissue engineering technology. In addition, Shakhssalim et al. [15] Successfully applied
+electrospinning technology to prepare a polycaprolactone/polylactic acid scaffold for canine bladder
+wall replacement. Cell matrix was added to support seed detrusor smooth muscle cells, which can
+stimulate local in vivo growth of primary cells.
+
+In terms of cell selection, in theory, autologous cells are the best choice for inducing tissue
+fusion and regeneration, which can effectively avoid serious immune responses. However, if urine-
+derived stem cells are collected at the source of autologous cells, they are not suitable for urinary
+diversion. The main reason for patients undergoing urinary diversion surgery is that most of the
+patients undergoing urinary diversion surgery are mostly suffering from tumorous diseases, so the
+collected cell sources may contain tumor cells. Other studies have shown that in vitro neuropathic
+bladder cells (smooth muscle and epithelial cells) have low contractile potential and low
+proliferation and differentiation ability [16]. Therefore, mesenchymal stem cells seem to be a good
+source of cells in bladder tissue engineering. However, since mesenchymal stem cells are not
+autologous bladder cells, they are easily altered by urinary toxicity, which may affect the success
+rate of tissue regeneration, but their advantage is that mesenchymal stem cells seem not to be
+affected by the initial pathology of the nervous system [17]. Studies have proved that the use of
+multiple cell co-transplantation can promote the regeneration of bladder tissue [18]. However,
+insufficient vascularization of regenerated bladder tissue is still a challenge for bladder tissue
+engineering. Zhao et al. [19] Isolated adipose-derived endothelial progenitor cells with high
+
+5|Page
+ proliferation potential and angiogenic properties, pretreated with hypoxia to increase the activity of
+stem cells, and then combined porcine bladder acellular matrix with hypoxia-pretreated autologous
+adipose-derived endothelial progenitor cells were injected into the rat bladder reconstruction model
+at the same time, and its feasibility and the possibility of bladder blood vessel formation were
+evaluated, proving that hypoxia preconditioning can promote angiogenesis and tissue-engineered
+bladder function recovery.
+
+Clinically, the ideal replacement bladder has complicated complications. The materials used for
+bladder reconstruction in the past included gelatin sponge, Japanese paper, formalin-preserved dog
+bladder, freeze-dried human dura mater, bovine pericardium, and small intestinal submucosa [20].
+These biological materials provide a temporary scaffold for tissue growth, and over time they will
+reshape and degrade. A common complication in patients with bladder reconstruction is the gradual
+decrease in bladder capacity. Therefore, although these batteries can benefit some patients, they are
+rarely used in subsequent studies due to their poor long-term effects and the existence of
+complications. Be used again. To construct a tissue-engineered bladder, Bouhout et al. [21]
+Simulated an autologous bladder equivalent (VE). First, fibroblasts and epithelial cells were used
+for three-dimensional culture to obtain reconstructed VE; then they were cultured in a bioreactor,
+the reactor can provide a circulating pressure of up to 15 cm H2O0, which is then rapidly reduced to
+achieve dynamically cultured VE (DCVE). The study found that the contour of the urothelium
+produced by dynamic culture was like that of the natural bladder. Permeability analysis showed that
+its contour was like that of the natural bladder and consistent with the basal cell tissue of the
+bladder. At the same time, it had the proper stretch ability during suture and processing. This new
+alternative method provides a new direction for regenerative medicine, which has similar properties
+to the bladder and can act as a urea barrier. These properties can significantly reduce inflammation,
+necrosis, and possible rejection. Studies have shown that, compared with cell-free scaffolds, cells
+are implanted into scaffolds (such as: bladder acellular matrix; polyacetic acid/polylactic acid-
+glycolic acid), the effect of cell growth is better [22-23]. In clinical trials, it was found that a
+cellular scaffold can only regenerate the urothelium but cannot regenerate smooth muscles to
+achieve the effect of restoring the contractile function of the bladder. Another study by Bouhout et
+al. [24] Found that the use of collagen-derived scaffolds in tissue-engineered three-dimensional
+spherical bladder models can mimic the natural shape of the bladder. Bladder mesenchymal cells
+are embedded in the scaffold, and epithelial cells are implanted on the surface. Therefore, the
+tension in the bladder mesenchymal cells and epithelial cells implanted in the model are like that in
+natural tissues. The three-dimensional spherical bladder model has the characteristics of highly
+mature urethral epithelium, collagen remodeling, and smooth muscle cells expressing myosin show
+a tendency to rearrange parallel to the surface of the cavity, which has characteristics comparable to
+natural tissues. This technology can be used for Partial replacement therapy for pathological bladder
+in the future.
+
+The ideal tissue engineering, regeneration biomaterial should be able to make the mature
+epithelial cell layer uniformly and continuously attach to the surface of the bladder cavity and form
+multiple smooth muscle cell layers on the surface of the bladder cavity. It should also provide
+sufficient mechanical support to prevent renewal in the body. The tissue collapses prematurely
+before it forms. However, the implanted cells are suddenly exposed to an environment full of
+inflammatory mediators and activated immune responses, which will significantly affect their
+proliferation and function. Therefore, the constructed in vivo microenvironment should support the
+self-renewal, survival and differentiation of the implanted cell population and protect it from
+
+6|Page
+

@@ -1,0 +1,180 @@
+,id,name,other_ids,type
+0,stem cell,stem cell,['CL:0000034'],cell_type
+1,tissue,tissue,['mesh:D002828'],disease
+2,sperm cells,sperm cells,['CUI-less'],cell_type
+3,sperm cells,sperm cells,['CUI-less'],cell_type
+4,urinary tract diseases,urinary tract diseases,['mesh:D014570'],disease
+5,degenerative diseases,degenerative diseases,['mesh:D019636'],disease
+6,trauma,trauma,['mesh:D014947'],disease
+7,tumors,tumors,['mesh:D009369'],disease
+8,hair,hair,['mesh:D006201'],disease
+9,stenosis,stenosis,['mesh:D003251'],disease
+10,stone,stone,['mesh:D007669'],disease
+11,diverticulum,diverticulum,['mesh:D004240'],disease
+12,tissues,tissues,['CUI-less'],cell_type
+13,people,people,['NCBITaxon:9606'],species
+14,people,people,['NCBITaxon:9606'],species
+15,stem cells,stem cells,['CUI-less'],cell_type
+16,patients,patients,['NCBITaxon:9606'],species
+17,Original cells,Original cells,['CUI-less'],cell_type
+18,e Urinary tract epithelial cells,e Urinary tract epithelial cells,['CUI-less'],cell_type
+19,cell culture,cell culture,['CUI-less'],cell_line
+20,Urinary epithelial cells,Urinary epithelial cells,['CUI-less'],cell_type
+21,Autologous epithelial cells,Autologous epithelial cells,['CUI-less'],cell_type
+22,oral keratinocytes,oral keratinocytes,['CUI-less'],cell_type
+23,smooth muscle cells,smooth muscle cells,['CUI-less'],cell_type
+24,e,e,['CUI-less'],cell_type
+25,Stem cells,Stem cells,['CUI-less'],cell_type
+26,bone marrow stem cells,bone marrow stem cells,['CUI-less'],cell_type
+27,adipose stem cells,adipose stem cells,['CUI-less'],cell_type
+28,urine-derived stem cells,urine-derived stem cells,['CUI-less'],cell_type
+29,polyglycolic acid,polyglycolic acid,['CHEBI:53492'],drug
+30,polylactic acid,polylactic acid,['CHEBI:53408'],drug
+31,polyglycolic acid,polyglycolic acid,['CHEBI:53492'],drug
+32,pigs,pigs,['NCBITaxon:9823'],species
+33,exogenous,exogenous,['CUI-less'],DNA
+34,fibroblasts,fibroblasts,['CUI-less'],cell_type
+35,inflammation,inflammation,['mesh:D007249'],disease
+36,fibrosis,fibrosis,['mesh:D005355'],disease
+37,engineered tissues,engineered tissues,['CUI-less'],cell_line
+38,living cells,living cells,['CUI-less'],cell_type
+39,individual cells,individual cells,['CUI-less'],cell_type
+40,collagen,collagen,['NCBIGene:1280'],gene
+41,collagen,collagen,['NCBIGene:1280'],gene
+42,newborn rat kidney cells,newborn rat kidney cells,['CUI-less'],cell_type
+43,newborn,newborn,['CUI-less'],species
+44,rat,rat,['NCBITaxon:10116'],species
+45,seed cells,seed cells,['CUI-less'],cell_type
+46,albumin,albumin,['NCBIGene:213'],gene
+47,rat,rat,['NCBITaxon:10116'],species
+48,epithelial cells,epithelial cells,['CUI-less'],cell_type
+49,endothelial cells,endothelial cells,['CUI-less'],cell_type
+50,blood vessels,blood vessels,['CUI-less'],cell_type
+51,endothelial cells,endothelial cells,['CUI-less'],cell_type
+52,thrombosis,thrombosis,['mesh:D013927'],disease
+53,revascularized structure,revascularized structure,['CUI-less'],DNA
+54,endothelial cell,endothelial cell,['CL:0000115'],cell_type
+55,pig,pig,['NCBITaxon:9823'],species
+56,CD31 antibody,CD31 antibody,['NCBIGene:5175'],gene
+57,vascular endothelial cells,vascular endothelial cells,['CUI-less'],cell_type
+58,CD31,CD31,['NCBIGene:5175'],gene
+59,platelet endothelial cell adhesion molecule-1,platelet endothelial cell adhesion molecule-1,['NCBIGene:5175'],gene
+60,PECAM-1,PECAM-1,['NCBIGene:5175'],gene
+61,CD31,CD31,['NCBIGene:5175'],gene
+62,endothelial,endothelial,['CUI-less'],cell_type
+63,endothelial cells,endothelial cells,['CUI-less'],cell_type
+64,neurons,neurons,['CUI-less'],cell_type
+65,vascular endothelial cells,vascular endothelial cells,['CUI-less'],cell_type
+66,renal tubular epithelial cells,renal tubular epithelial cells,['CUI-less'],cell_type
+67,vascular endothelial,vascular endothelial,['CUI-less'],cell_type
+68,renal tubular epithelial cells,renal tubular epithelial cells,['CUI-less'],cell_type
+69,mesenchymal stem cells,mesenchymal stem cells,['CUI-less'],cell_line
+70,renal tubular epithelial cells,renal tubular epithelial cells,['CUI-less'],cell_type
+71,renal tubular epithelial cells,renal tubular epithelial cells,['CUI-less'],cell_type
+72,mesenchymal stem cells,mesenchymal stem cells,['CUI-less'],cell_type
+73,rat,rat,['NCBITaxon:10116'],species
+74,unprotected cells,unprotected cells,['CUI-less'],cell_type
+75,neoprene,neoprene,['mesh:D009387'],drug
+76,Tubular,Tubular,['CUI-less'],cell_line
+77,Tubular epithelial cells,Tubular epithelial cells,['CUI-less'],cell_type
+78,dysfunctional,dysfunctional,['mesh:D010900'],disease
+79,adipose stem cells,adipose stem cells,['CUI-less'],cell_type
+80,induced mesoderm cells,induced mesoderm cells,['CUI-less'],cell_line
+81,tubular cells,tubular cells,['CUI-less'],cell_type
+82,adipose stem cells,adipose stem cells,['CUI-less'],cell_type
+83,seed cells,seed cells,['CUI-less'],cell_line
+84,clinically,clinically,['CUI-less'],cell_line
+85,clinically sourced cells,clinically sourced cells,['CUI-less'],cell_type
+86,thrombosis,thrombosis,['mesh:D013927'],disease
+87,kidney-specific diseases,kidney-specific diseases,['mesh:D007674'],disease
+88,kidney disease,kidney disease,['mesh:D007674'],disease
+89,immune problems,immune problems,['mesh:D007154'],disease
+90,blood vessels,blood vessels,['CUI-less'],cell_type
+91,human,human,['NCBITaxon:9606'],species
+92,smooth,smooth,['CUI-less'],cell_line
+93,smooth muscle cells,smooth muscle cells,['CUI-less'],cell_type
+94,mesenchymal stem cells,mesenchymal stem cells,['CUI-less'],cell_type
+95,vascular endothelial cells,vascular endothelial cells,['CUI-less'],cell_type
+96,mesenchymal stem cells,mesenchymal stem cells,['CUI-less'],cell_type
+97,smooth muscle tissue,smooth muscle tissue,['CUI-less'],cell_type
+98,a-smooth muscle actin,a-smooth muscle actin,['NCBIGene:59'],gene
+99,smooth muscle myosin heavy chain,smooth muscle myosin heavy chain,['NCBIGene:4629'],gene
+100,urothelial cytokeratin 20,urothelial cytokeratin 20,['NCBIGene:54474'],gene
+101,write-in 11,write-in 11,['NCBIGene:152274'],gene
+102,arterial stenosis,arterial stenosis,['mesh:D003251'],disease
+103,patients,patients,['NCBITaxon:9606'],species
+104,human,human,['NCBITaxon:9606'],species
+105,hydronephrosis,hydronephrosis,['mesh:D006869'],disease
+106,arterial epithelial cells,arterial epithelial cells,['CUI-less'],cell_type
+107,smooth muscle cells,smooth muscle cells,['CUI-less'],cell_type
+108,patients,patients,['NCBITaxon:9606'],species
+109,long stenosis,long stenosis,['mesh:D003251'],disease
+110,arterial stenosis,arterial stenosis,['mesh:D003251'],disease
+111,collagen,collagen,['NCBIGene:1280'],gene
+112,pigs,pigs,['NCBITaxon:9823'],species
+113,polyethylene,polyethylene,['CHEBI:53226'],drug
+114,Teflon,Teflon,['CHEBI:53251'],drug
+115,poly- 4 -ester,poly- 4 -ester,['CHEBI:60754'],drug
+116,human,human,['NCBITaxon:9606'],species
+117,polycaprolactone,polycaprolactone,['CHEBI:60736'],drug
+118,polylactic acid,polylactic acid,['CHEBI:53408'],drug
+119,canine,canine,['CUI-less'],species
+120,detrusor smooth,detrusor smooth,['CUI-less'],cell_line
+121,detrusor smooth muscle cells,detrusor smooth muscle cells,['CUI-less'],cell_type
+122,primary cells,primary cells,['CUI-less'],cell_line
+123,autologous cells,autologous cells,['CUI-less'],cell_type
+124,urine- derived stem cells,urine- derived stem cells,['CUI-less'],cell_type
+125,autologous cells,autologous cells,['CUI-less'],cell_type
+126,patients,patients,['NCBITaxon:9606'],species
+127,patients,patients,['NCBITaxon:9606'],species
+128,tumorous diseases,tumorous diseases,['mesh:D009369'],disease
+129,tumor cells,tumor cells,['CUI-less'],cell_type
+130,tumor,tumor,['mesh:D009369'],disease
+131,neuropathic bladder cells,neuropathic bladder cells,['CUI-less'],cell_type
+132,neuropathic bladder,neuropathic bladder,['mesh:D001750'],disease
+133,smooth muscle and epithelial cells,smooth muscle and epithelial cells,['CUI-less'],cell_type
+134,mesenchymal stem cells,mesenchymal stem cells,['CUI-less'],cell_type
+135,mesenchymal stem cells,mesenchymal stem cells,['CUI-less'],cell_type
+136,autologous bladder cells,autologous bladder cells,['CUI-less'],cell_type
+137,mesenchymal,mesenchymal,['CUI-less'],cell_line
+138,mesenchymal stem cells,mesenchymal stem cells,['CUI-less'],cell_type
+139,multiple cell,multiple cell,['CUI-less'],cell_line
+140,multiple,multiple,['CUI-less'],cell_type
+141,adipose-derived endothelial progenitor cells,adipose-derived endothelial progenitor cells,['CUI-less'],cell_type
+142,stem cells,stem cells,['CUI-less'],cell_type
+143,porcine,porcine,['CUI-less'],DNA
+144,hypoxia,hypoxia,['CUI-less'],cell_line
+145,autologous adipose-derived endothelial progenitor cells,autologous adipose-derived endothelial progenitor cells,['CUI-less'],cell_type
+146,rat,rat,['NCBITaxon:10116'],species
+147,formalin,formalin,['mesh:D005557'],drug
+148,dog,dog,['NCBITaxon:9615'],species
+149,human,human,['NCBITaxon:9606'],species
+150,bovine,bovine,['NCBITaxon:9913'],species
+151,patients,patients,['NCBITaxon:9606'],species
+152,patients,patients,['NCBITaxon:9606'],species
+153,fibroblasts,fibroblasts,['CUI-less'],cell_type
+154,epithelial cells,epithelial cells,['CUI-less'],cell_type
+155,basal cell tissue,basal cell tissue,['CUI-less'],cell_type
+156,urea,urea,['mesh:D014508'],drug
+157,inflammation,inflammation,['mesh:D007249'],disease
+158,necrosis,necrosis,['mesh:D009336'],disease
+159,rejection,rejection,['mesh:D064420'],disease
+160,polyacetic acid,polyacetic acid,['CHEBI:60892'],drug
+161,polylactic acid- glycolic acid,polylactic acid- glycolic acid,['CHEBI:53493'],drug
+162,collagen,collagen,['NCBIGene:1280'],gene
+163,tissue-engineered three-dimensional,tissue-engineered three-dimensional,['CUI-less'],cell_line
+164,Bladder,Bladder,['CUI-less'],cell_line
+165,Bladder mesenchymal cells,Bladder mesenchymal cells,['CUI-less'],cell_type
+166,epithelial cells,epithelial cells,['CUI-less'],cell_type
+167,bladder mesenchymal cells,bladder mesenchymal cells,['CUI-less'],cell_type
+168,epithelial cells,epithelial cells,['CUI-less'],cell_type
+169,collagen,collagen,['NCBIGene:1280'],gene
+170,smooth muscle cells,smooth muscle cells,['CUI-less'],cell_type
+171,myosin,myosin,['NCBIGene:79784'],gene
+172,natural,natural,['CUI-less'],cell_type
+173,pathological bladder,pathological bladder,['mesh:D001745'],disease
+174,mature epithelial,mature epithelial,['CUI-less'],cell_line
+175,mature epithelial cell layer,mature epithelial cell layer,['CUI-less'],cell_type
+176,smooth,smooth,['CUI-less'],cell_line
+177,smooth muscle cell layers,smooth muscle cell layers,['CUI-less'],cell_type
+178,implanted cells,implanted cells,['CUI-less'],cell_line
