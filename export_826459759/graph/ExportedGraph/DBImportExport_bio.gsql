@@ -1,0 +1,73 @@
+CREATE GRAPH bio(Sentence, Author, Entity, Research_Paper, Type, relation, has_entity, has_bio_entity, contains, authored)
+set exit_on_error = "false"
+CREATE LOADING JOB load_job_article_csv_1647329010113 FOR GRAPH bio {
+      DEFINE FILENAME MyDataSource;
+      LOAD MyDataSource TO VERTEX Research_Paper VALUES($1, $2) USING SEPARATOR=",", HEADER="true", EOL="\n", QUOTE="double";
+    }
+
+set exit_on_error = "true"
+set exit_on_error = "false"
+CREATE LOADING JOB load_job_article_sentences_csv_1647329019446 FOR GRAPH bio {
+      DEFINE FILENAME MyDataSource;
+      LOAD MyDataSource TO EDGE contains VALUES($1, $2) USING SEPARATOR=",", HEADER="true", EOL="\n";
+    }
+
+set exit_on_error = "true"
+set exit_on_error = "false"
+CREATE LOADING JOB load_job_authWROTE_csv_1647329024269 FOR GRAPH bio {
+      DEFINE FILENAME MyDataSource;
+      LOAD MyDataSource TO EDGE authored VALUES($1, $2) USING SEPARATOR=",", HEADER="true", EOL="\n";
+    }
+
+set exit_on_error = "true"
+set exit_on_error = "false"
+CREATE LOADING JOB load_job_author_csv_1647329032144 FOR GRAPH bio {
+      DEFINE FILENAME MyDataSource;
+      LOAD MyDataSource TO VERTEX Author VALUES($1, $2) USING SEPARATOR=",", HEADER="false", EOL="\n";
+    }
+
+set exit_on_error = "true"
+set exit_on_error = "false"
+CREATE LOADING JOB load_job_entity_csv_1647329040312 FOR GRAPH bio {
+      DEFINE FILENAME MyDataSource;
+      LOAD MyDataSource TO VERTEX Entity VALUES($1, $2, $3, $4) USING SEPARATOR=",", HEADER="true", EOL="\n";
+    }
+
+set exit_on_error = "true"
+set exit_on_error = "false"
+CREATE LOADING JOB load_job_rel_type_csv_1647329053478 FOR GRAPH bio {
+      DEFINE FILENAME MyDataSource;
+      LOAD MyDataSource TO VERTEX Type VALUES($2) USING SEPARATOR=",", HEADER="true", EOL="\n";
+    }
+
+set exit_on_error = "true"
+set exit_on_error = "false"
+CREATE LOADING JOB load_job_relationship_csv_1647329061926 FOR GRAPH bio {
+      DEFINE FILENAME MyDataSource;
+      LOAD MyDataSource TO EDGE has_bio_entity VALUES($4, $1) USING SEPARATOR=",", HEADER="true", EOL="\n";
+      LOAD MyDataSource TO EDGE has_bio_entity VALUES($4, $2) USING SEPARATOR=",", HEADER="true", EOL="\n";
+      LOAD MyDataSource TO EDGE has_entity VALUES($3, $1) USING SEPARATOR=",", HEADER="true", EOL="\n";
+      LOAD MyDataSource TO EDGE relation VALUES($2, $3) USING SEPARATOR=",", HEADER="true", EOL="\n";
+    }
+
+set exit_on_error = "true"
+set exit_on_error = "false"
+CREATE LOADING JOB load_job_sentences_csv_1647329071260 FOR GRAPH bio {
+      DEFINE FILENAME MyDataSource;
+      LOAD MyDataSource TO VERTEX Sentence VALUES($1, $2) USING SEPARATOR=",", HEADER="true", EOL="\n", QUOTE="double";
+    }
+
+set exit_on_error = "true"
+set exit_on_error = "false"
+CREATE QUERY get_disease_relation(/* Parameters here */) FOR GRAPH bio { 
+  /* Write query logic here */ 
+  ListAccum<EDGE> @relation;
+
+  start = {Entity.*};
+
+  entity_typ = SELECT s FROM start:s -(relation:r)- :t
+               ACCUM s.@relation+=r;
+
+  PRINT entity_typ;
+}
+set exit_on_error = "true"

@@ -1,0 +1,16 @@
+CREATE GLOBAL SCHEMA_CHANGE JOB global_schema_change_303694980 {
+      ALTER VERTEX Sentence ADD INDEX text_q0sexm9h0od ON (text);
+      ALTER VERTEX Author ADD INDEX name_b9v9xwpkoxe ON (name);
+      ALTER VERTEX Entity ADD INDEX name_mbd9zqa5dgf ON (name);
+      ALTER VERTEX Article ADD INDEX title_4x42wkkn972 ON (title);
+      ALTER VERTEX Relation ADD INDEX type_q0v48u0xfqm ON (type);
+    }
+
+CREATE GLOBAL SCHEMA_CHANGE JOB global_schema_change {
+      ALTER VERTEX Sentence ADD INDEX text_q0sexm9h0od ON (text);
+      ALTER VERTEX Author ADD INDEX name_b9v9xwpkoxe ON (name);
+      ALTER VERTEX Entity ADD INDEX name_mbd9zqa5dgf ON (name);
+      ALTER VERTEX Article ADD INDEX title_4x42wkkn972 ON (title);
+      ALTER VERTEX Relation ADD INDEX type_q0v48u0xfqm ON (type);
+    }
+
